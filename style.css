@@ -55,6 +55,7 @@ body {
   font-size: 0.9rem;
   color: var(--text-muted);
   max-width: 480px;
+  white-space: pre-line;
 }
 
 .rss-link {
